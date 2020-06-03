@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ff3d848-6519-4419-bc5a-1f597298a373" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cmtOhGm071UmFjumSeB6T332gb" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\work space\jdk-src-demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="jdk-src-demo" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ff3d848-6519-4419-bc5a-1f597298a373" name="Default Changelist" comment="" />
+      <created>1591145565344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591145565344</updated>
+      <workItem from="1591145566629" duration="66000" />
+      <workItem from="1591145778862" duration="64000" />
+      <workItem from="1591145853668" duration="1482000" />
+      <workItem from="1591147514075" duration="2880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="58" key="FileChooserDialogImpl" timestamp="1591148843572">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="402" y="58" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591148843572" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1591147346704">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591147346704" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1591147346704">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591147346704" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1591147346704">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591147346704" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1591147346704">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591147346704" />
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1591147346699">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591147346699" />
+    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1591147346699">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1591147346699" />
+    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1591147346699">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1591147346699" />
+    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1591147346699">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1591147346699" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1591149783778">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591149783778" />
+  </component>
+</project>

@@ -1,4 +1,19 @@
+
+
 ## 在 IDEA(2019.3) 搭建 jdk1.8.0_231 源码阅读环境
+<!-- TOC -->
+目录
+- [1. JDK源码在哪里？](#1-jdk源码在哪里)
+- [2. 搭建步骤](#2-搭建步骤)
+- [3. 搭建过程中的问题总结](#3-搭建过程中的问题总结)
+
+<!-- /TOC -->
+
+参考博客
+
+* [IDEA构建JDK源码阅读的环境以及遇到的问题](https://blog.csdn.net/dataiyangu/article/details/105011703)
+
+* [自己编译JDK源码踩坑纪实](https://my.oschina.net/hansonwang99/blog/4387387)
 
 ### 1. JDK源码在哪里？
 
